@@ -1,9 +1,23 @@
 html {
   font-family: "Open Sans";
+  background: radial-gradient(circle, rgb(59, 59, 219), rgb(108, 152, 209));
 }
 body {
   margin: 40px;
 }
+
 h1 {
-  color: blue;
+  color: white;
+}
+p {
+  color: white;
+}
+#image1 {
+  border: 3px solid white;
+}
+#image2 {
+  border: 3px solid white;
+}
+#image3 {
+  border: 3px solid white;
 }
